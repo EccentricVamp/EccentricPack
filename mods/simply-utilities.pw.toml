@@ -1,0 +1,13 @@
+name = "Simply Utilities"
+filename = "simplyutilities-1.18.2-0.6.0-build.28.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "28d3bfc1522b94ce8ac0a3518f2b95a4b6bb169f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3908674
+project-id = 415936

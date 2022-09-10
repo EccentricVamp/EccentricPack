@@ -1,0 +1,13 @@
+name = "Eccentric Pack"
+author = "EccentricVamp"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1d859fbb85d7c7878268de8b5eef971a71c7b2fc312c7bbdb664c34f63816432"
+
+[versions]
+forge = "40.1.0"
+minecraft = "1.18.2"
