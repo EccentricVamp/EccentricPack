@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "6bb28b036536e6d34818cb24770345165eb5bab870b479eaa9fa915e95b8d554"
-
-[[files]]
-file = "consider.md"
-hash = "37cf00a633aee2654bc7e80baf7db43020410ba46633da2166780af6520dcd3a"
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "535d312128e500ea510af84dbf65008ae48f4d9640be713088c3d00a99ef1f7d"
 metafile = true
