@@ -26,6 +26,8 @@
 * [Inventory Sorter](https://www.curseforge.com/minecraft/mc-mods/inventory-sorter)
 * [Bad Wither No Cookie](https://www.curseforge.com/minecraft/mc-mods/bad-wither-no-cookie-reloaded)
 * [CleanView](https://www.curseforge.com/minecraft/mc-mods/cleanview)
+* [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
+* [Reliquary](https://www.curseforge.com/minecraft/mc-mods/reliquary-v1-3)
 
 * [Pehkui](https://www.curseforge.com/minecraft/mc-mods/pehkui)
 * [Shrunk](https://)
@@ -83,42 +85,12 @@
 * [ZeroCore 2](https://www.curseforge.com/minecraft/mc-mods/zerocore)
 * [Extreme Reactors](https://www.curseforge.com/minecraft/mc-mods/extreme-reactors)
 
-* [AutoRegLib](https://www.curseforge.com/minecraft/mc-mods/autoreglib)
-* [Morph-o-Tool](https://www.curseforge.com/minecraft/mc-mods/morph-o-tool)
-* [Akashic Tome](https://www.curseforge.com/minecraft/mc-mods/akashic-tome)
-
 * [Mantle](https://www.curseforge.com/minecraft/mc-mods/mantle)
 * [Tinkers' Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)
-
-* [Reliquary](https://www.curseforge.com/minecraft/mc-mods/reliquary-v1-3)
-
-    3/19/2022 1.18.2 Damnit P3pp3rF1y. I guess I'll have to make my own.
-
-## Honorable mentions
-
-* [Emendatus Enigmatica](https://www.curseforge.com/minecraft/mc-mods/emendatus-enigmatica)
-
-    3/23/2022 1.16
-
-* [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
-
-    3/23/2022 1.17
-
-* [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)
-
-    3/23/2022 1.16
 
 * [CoFH Core](https://www.curseforge.com/minecraft/mc-mods/cofh-core)
 * [Thermal Foundation](https://www.curseforge.com/minecraft/mc-mods/thermal-foundation)
 * [Thermal Expansion](https://www.curseforge.com/minecraft/mc-mods/thermal-expansion)
-* [Thermal Dynamics](https://www.curseforge.com/minecraft/mc-mods/thermal-dynamics)
 * [Thermal Innovation](https://www.curseforge.com/minecraft/mc-mods/thermal-innovation)
 * [Thermal Cultivation](https://www.curseforge.com/minecraft/mc-mods/thermal-cultivation)
 * [Thermal Locomotion](https://www.curseforge.com/minecraft/mc-mods/thermal-locomotion)
-
-    3/23/2022 1.16
-
-* [AutoRegLib](https://www.curseforge.com/minecraft/mc-mods/autoreglib)
-* [Psi](https://www.curseforge.com/minecraft/mc-mods/psi)
-
-    3/23/2022 1.16

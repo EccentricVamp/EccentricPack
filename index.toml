@@ -46,6 +46,11 @@ hash = "8b73e4851b268861352e394929f0dd808b379c84a50ad7953ab58efad24bfb30"
 metafile = true
 
 [[files]]
+file = "mods/cofh-core.pw.toml"
+hash = "8eee470118b67b9e754560f01ffe60fdd19d3fb13503c7047de24e7387b3cdb4"
+metafile = true
+
+[[files]]
 file = "mods/common-capabilities.pw.toml"
 hash = "d099ce9f421f4113f303e8931eb7a15dd5bf0a0678a5866b623e390669ef5704"
 metafile = true
@@ -303,6 +308,36 @@ metafile = true
 [[files]]
 file = "mods/the-one-probe.pw.toml"
 hash = "84683e077e40da506524d05702eeca7c56bffb6c4bdefe0eb2575c79da79e531"
+metafile = true
+
+[[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "a6b52fbac8ba8c697c5d7243abb9c8c0a4d9f437d27b4afd9f08a0d1aa13eea8"
+metafile = true
+
+[[files]]
+file = "mods/thermal-cultivation.pw.toml"
+hash = "35662580a9e3a666590e5683cae94c6ccea0a3cdf71c135e2c9e96ce332dbd86"
+metafile = true
+
+[[files]]
+file = "mods/thermal-expansion.pw.toml"
+hash = "4348e392d8c6cf6f109b4e38fc43796e25bd36a9db307b0b4fb095af140b77e1"
+metafile = true
+
+[[files]]
+file = "mods/thermal-foundation.pw.toml"
+hash = "c418dc0a4e8525cd6d5457adec052cfead504dd9e291ae3419f22283b707fa2f"
+metafile = true
+
+[[files]]
+file = "mods/thermal-innovation.pw.toml"
+hash = "8034d8e5a7b4fe51cfb97409a678d9c04929dfc09ba4285870021d07f1104a4d"
+metafile = true
+
+[[files]]
+file = "mods/thermal-locomotion.pw.toml"
+hash = "022351d0f8b659c89bda8a09394c890741f0d204a9dacb698e5d70f2f455cf5b"
 metafile = true
 
 [[files]]
