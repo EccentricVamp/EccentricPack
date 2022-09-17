@@ -6,6 +6,11 @@ hash = "535d312128e500ea510af84dbf65008ae48f4d9640be713088c3d00a99ef1f7d"
 metafile = true
 
 [[files]]
+file = "mods/ars-nouveau.pw.toml"
+hash = "4935a09a71f0032aa6a98618f0a7632ac1a3db30586cccda3a4c1a8994b0e52e"
+metafile = true
+
+[[files]]
 file = "mods/bad-wither-no-cookie.pw.toml"
 hash = "312c13c9239977f561518531cb97111751d78026dd880b3543dc88fe780eaca9"
 metafile = true
