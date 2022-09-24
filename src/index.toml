@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "032f4b23da6df46a3ab0792e5b4ae17b3c20bcc0f716404566f1cd2752bb09d0"
+hash = "fd60634befa8a43c361628181cc28da548dd84bc90ee5fb699dc5c2f13847aa3"
 metafile = true
 
 [[files]]
@@ -157,12 +157,12 @@ metafile = true
 
 [[files]]
 file = "mods/immersiveengineering.pw.toml"
-hash = "e615d5a84d6bb818ad3a08f44eca77fc6cffe883f301b172cc32bd93a7e50390"
+hash = "e5f6f1b06f491c55c1a82125ab4ed531f8ebb19d9e783c0ce0e9d2d135c26c10"
 metafile = true
 
 [[files]]
 file = "mods/integrated-dynamics.pw.toml"
-hash = "34011e0ade3cd7609bd55f77b1e870dbf8930ea683b842ba6382ae3ee85453e0"
+hash = "be4643865d5c50b8fce1bedbbec582b0c22e2f60ed97f0a2e693b32376347f26"
 metafile = true
 
 [[files]]
@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "c98c699ec35e5763115f83672d50bbb143760caeb90a2495e956025cdcb9aa27"
+hash = "2d55e27ee194df16c7acf56cb79e73dc1e96fc042820bf99c4ba5c5832f674a3"
 metafile = true
 
 [[files]]
