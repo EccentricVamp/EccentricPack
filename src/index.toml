@@ -186,6 +186,11 @@ hash = "2f86406baf5c931fbb9b37c0ed93c8d041fe32eb6c9b20b915a351e0a1bfb0fc"
 metafile = true
 
 [[files]]
+file = "mods/mantle.pw.toml"
+hash = "3b8744e493e25555053230b01f86c25cfee8e686d4159db5458478b00e404d58"
+metafile = true
+
+[[files]]
 file = "mods/mcjtylib.pw.toml"
 hash = "4a3143688b72f11d7ce289b6a2a5c89bac561f9a0eca5324d2d08f60b51e252f"
 metafile = true
@@ -343,6 +348,11 @@ metafile = true
 [[files]]
 file = "mods/thermal-locomotion.pw.toml"
 hash = "022351d0f8b659c89bda8a09394c890741f0d204a9dacb698e5d70f2f455cf5b"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-construct.pw.toml"
+hash = "5cef47ebec6f02511be3efd5d6b65ff3bf7ba9593958d13a6784e45621b4ba1f"
 metafile = true
 
 [[files]]
