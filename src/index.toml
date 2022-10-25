@@ -356,6 +356,11 @@ hash = "3f91a4e06cf81073b7ddcfa9b3e7318bca500b2896bc27274a0261d49a80a1f5"
 metafile = true
 
 [[files]]
+file = "mods/thermal-integration.pw.toml"
+hash = "93f77db4e3117adbe7bc040f8132bfea569ac63d330cb10ac594fae85feff1d2"
+metafile = true
+
+[[files]]
 file = "mods/thermal-locomotion.pw.toml"
 hash = "2d040af2399abba72689d99a74d86aa4990676b6f5274de5cee40790b4df2996"
 metafile = true
