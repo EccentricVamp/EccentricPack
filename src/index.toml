@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/eccentric-tome.pw.toml"
-hash = "ad10db346a2c02d5bb11dfa0e5aad058332e456c84e4317f73b6611f30cc4d8c"
+hash = "f0c19f7cfa0ff9b3c6fa602f2bd7658fa64b4d2f8046ad40430a5befc443d04d"
 metafile = true
 
 [[files]]
