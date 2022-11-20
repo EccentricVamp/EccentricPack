@@ -17,17 +17,12 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "15a8e3759f395da24354f9313aca76449c87a4a69b4a720448f5248c5bcad367"
+hash = "040dcc2b054f4e70da67a8a04110f705ca76832be95725db3e8b88f993b74127"
 metafile = true
 
 [[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "6280b2e15c30ff8ed504cae2a9dd9aa5bca660a9442e7f19517d2755155c37a9"
-metafile = true
-
-[[files]]
-file = "mods/blue-skies.pw.toml"
-hash = "acee936dece13a20480102ee02af50b5a474dc9db7c1170be230a0bbb157f60c"
 metafile = true
 
 [[files]]
@@ -77,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/cooking-for-blockheads.pw.toml"
-hash = "b6ebcd2b9bd6ef8d11194e95d01059c95a3603cad7ba9b1fb82b8dac6c044536"
+hash = "73ef74802919b21b722736056853711b130dfd42320ca0e6d4046d3b6839f883"
 metafile = true
 
 [[files]]
@@ -122,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/extreme-reactors.pw.toml"
-hash = "f8a6efc586a8b7e365bf5c45d74c41c45d2100fd43647958498426e34321de00"
+hash = "f6c34f36067e3f230b3785cada15112abd1e179b396bb7804e885344ff9a1239"
 metafile = true
 
 [[files]]
@@ -212,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "93091b397f6ac25759b98be7034767689407bb344c464a9359642122a8b683db"
+hash = "496ee18fbcb9e7e2c629048a9f40bf642df42cc0287691d98932b9d311cede46"
 metafile = true
 
 [[files]]
@@ -253,6 +248,11 @@ metafile = true
 [[files]]
 file = "mods/refined-storage.pw.toml"
 hash = "69e580d4495de1694b7559e94a968257fb3a5aebbd4fd1beedfcab882c6e57d9"
+metafile = true
+
+[[files]]
+file = "mods/reliquary-v1-3.pw.toml"
+hash = "2ee731f49898cec35c7c223ceed26a597aa0aba1506e518915308c259edbfad9"
 metafile = true
 
 [[files]]
@@ -303,11 +303,6 @@ metafile = true
 [[files]]
 file = "mods/simply-utilities.pw.toml"
 hash = "bc7ad4ee03dc5dde813880457b2221ff8ecd9dad9da22242f39f8e60870ffa1e"
-metafile = true
-
-[[files]]
-file = "mods/structure-gel-api.pw.toml"
-hash = "809dfff943976dd9e8c11721ddcdcdf3130e0f9b3ae67bf98089f3cb5e056222"
 metafile = true
 
 [[files]]
@@ -387,5 +382,5 @@ metafile = true
 
 [[files]]
 file = "mods/zerocore.pw.toml"
-hash = "bba034d0edb62907bd8e033fcf00cbb8d8a2be43977b01699d70545d7b9ef4dd"
+hash = "309cc3cba9796c26613cadf12057fcda82321aab9280fad5e090c0bf9df3860c"
 metafile = true

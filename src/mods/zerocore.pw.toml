@@ -1,13 +1,13 @@
-name = "ZeroCore 2"
+name = "ZeroCore"
 filename = "ZeroCore2-1.18.2-2.1.26.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/rHpb85Mf/versions/QWp054zm/ZeroCore2-1.18.2-2.1.26.jar"
 hash-format = "sha1"
 hash = "d40e36114621e185b1f6907a80bef7d1460da09a"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4015773
-project-id = 247921
+[update.modrinth]
+mod-id = "rHpb85Mf"
+version = "QWp054zm"
