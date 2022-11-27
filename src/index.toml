@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "a9f4995175214b99cd6f0aff1658ee992707f781c3ad41dbf8212e8d3ecbf061"
+hash = "57a874e5167da349bb2cc7870adfac66d4ec027f884afbee45b1359950f84fb7"
 metafile = true
 
 [[files]]
@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/cofh-core.pw.toml"
-hash = "97e0edf45356c3db4ead4860e26119b801755fa4e9d1388edd5f4c1cfdedb9e4"
+hash = "88186aebdf90e3c69c25d80a894799ff7f97ae8903cd76149f3a0a8d74534eb1"
 metafile = true
 
 [[files]]
@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "fd60634befa8a43c361628181cc28da548dd84bc90ee5fb699dc5c2f13847aa3"
+hash = "9353e467a2c200f136b49c4bbc108dd91823b227bd02b1a70adcf698a814d892"
 metafile = true
 
 [[files]]
@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/integrated-dynamics.pw.toml"
-hash = "be4643865d5c50b8fce1bedbbec582b0c22e2f60ed97f0a2e693b32376347f26"
+hash = "281edbb6b20e9969dc3c1b18842d9ee6d8c5e2fc1a2069814883539b4ff731b7"
 metafile = true
 
 [[files]]
@@ -342,27 +342,27 @@ metafile = true
 
 [[files]]
 file = "mods/thermal-cultivation.pw.toml"
-hash = "189dab20eb5b2c90e47b7d28c7e72ebf4366048b324f64e001dd3081b70f52d5"
+hash = "e009544c1b859c325cab479053990843afaf4ce4305f4ef1bb8560a5107775d2"
 metafile = true
 
 [[files]]
 file = "mods/thermal-expansion.pw.toml"
-hash = "c90c6e6472900362ca34593e5e8b6481fb3579a61c2628535b1d0b171e529ece"
+hash = "b488ba2a153c2936d88a1c8c6fe395a9abbc3037726aea367e257a8e75ac4b29"
 metafile = true
 
 [[files]]
 file = "mods/thermal-foundation.pw.toml"
-hash = "e41cead8d5c88822c7e1ded080ed323038297eeb04cbf4a7c7d4154f8ad196c2"
+hash = "e64516083403cde9ad2b8926e3708824e742aaad07112865e765c7236b4fd864"
 metafile = true
 
 [[files]]
 file = "mods/thermal-innovation.pw.toml"
-hash = "3f91a4e06cf81073b7ddcfa9b3e7318bca500b2896bc27274a0261d49a80a1f5"
+hash = "751ddfcef4d81194e88d4ff9a83c0d16d8274286966da20748c81335b19b2025"
 metafile = true
 
 [[files]]
 file = "mods/thermal-locomotion.pw.toml"
-hash = "2d040af2399abba72689d99a74d86aa4990676b6f5274de5cee40790b4df2996"
+hash = "e14add735981a0c39e57724866ba997c68f9589b2399db0d8dd3d8e714f310d1"
 metafile = true
 
 [[files]]
