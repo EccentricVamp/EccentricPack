@@ -32,7 +32,7 @@
 * [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions)
 
 * [Pehkui](https://modrinth.com/mod/pehkui)
-* [Shrunk](https://)
+* [Shrunk](https://modrinth.com/mod/shrunk)
 
 * [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei)
 * [Just Enough Resources](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer)

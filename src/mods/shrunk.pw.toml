@@ -1,0 +1,13 @@
+name = "Shrunk"
+filename = "shrunk-1.18.2-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rMrOZihs/versions/mI7Swqnj/shrunk-1.18.2-1.2.0.jar"
+hash-format = "sha1"
+hash = "f63c32650364caa420a46ad8461eea0cc03b7fc1"
+
+[update]
+[update.modrinth]
+mod-id = "rMrOZihs"
+version = "mI7Swqnj"

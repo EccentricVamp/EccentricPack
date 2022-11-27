@@ -226,6 +226,11 @@ hash = "4bdc5ae272863fe14ea6fb6fbfb7c6ce75738572e0b5d7ca46b4d537a6939d18"
 metafile = true
 
 [[files]]
+file = "mods/pehkui.pw.toml"
+hash = "3fc159551275eb46ff8d31c668b5c699e089fa9fe9992944055dbfd5843f7737"
+metafile = true
+
+[[files]]
 file = "mods/placebo.pw.toml"
 hash = "4263ce79cb1ff47f095478e42a630ab85974dcebdb578e4a0f7bc5e113ae858b"
 metafile = true
@@ -293,6 +298,11 @@ metafile = true
 [[files]]
 file = "mods/rs-requestify.pw.toml"
 hash = "03ee69b801ff5c5e357b876f7a97a9d9002c84460c366097ee5c337f4408fc7c"
+metafile = true
+
+[[files]]
+file = "mods/shrunk.pw.toml"
+hash = "fd7d89814762a9a2aeaf45264bf5a9aa1061ed4df0d35db6c22d73756c4c8db7"
 metafile = true
 
 [[files]]
