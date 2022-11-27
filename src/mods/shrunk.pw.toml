@@ -1,13 +1,13 @@
 name = "Shrunk"
-filename = "shrunk-1.18.2-1.2.0.jar"
+filename = "shrunk-1.18.2-1.2.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/rMrOZihs/versions/mI7Swqnj/shrunk-1.18.2-1.2.0.jar"
+url = "https://cdn.modrinth.com/data/rMrOZihs/versions/yIOKsp3m/shrunk-1.18.2-1.2.2.jar"
 hash-format = "sha1"
-hash = "f63c32650364caa420a46ad8461eea0cc03b7fc1"
+hash = "0af5887e2b208f79136eec57c14eb9e95b2c2d7a"
 
 [update]
 [update.modrinth]
 mod-id = "rMrOZihs"
-version = "mI7Swqnj"
+version = "yIOKsp3m"

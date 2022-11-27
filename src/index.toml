@@ -302,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/shrunk.pw.toml"
-hash = "fd7d89814762a9a2aeaf45264bf5a9aa1061ed4df0d35db6c22d73756c4c8db7"
+hash = "cb8b11b342c3bd786413eba5389d27b0fb755d2c54433e502b212611830c25d5"
 metafile = true
 
 [[files]]
