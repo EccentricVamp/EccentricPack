@@ -246,6 +246,11 @@ hash = "2ee731f49898cec35c7c223ceed26a597aa0aba1506e518915308c259edbfad9"
 metafile = true
 
 [[files]]
+file = "mods/rftools-base.pw.toml"
+hash = "ce2fdaac17c20454cbcd0f1069f193d1f2b60bfeb56ce4e1c3314014930aa39a"
+metafile = true
+
+[[files]]
 file = "mods/rs-requestify.pw.toml"
 hash = "03ee69b801ff5c5e357b876f7a97a9d9002c84460c366097ee5c337f4408fc7c"
 metafile = true
