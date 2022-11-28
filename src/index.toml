@@ -342,7 +342,7 @@ metafile = true
 
 [[files]]
 file = "mods/xnet.pw.toml"
-hash = "8c3684aa0feb0f1703ce30dc263b1b81831de7e26fc9964ef789cd8529efb2e8"
+hash = "2abb92642de45bf05dcfe527ff63fe3d21bf6fa760ee257f8154a2902cd55c8f"
 metafile = true
 
 [[files]]
