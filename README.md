@@ -58,23 +58,12 @@
 * [Configured](https://www.curseforge.com/minecraft/mc-mods/configured)
 * [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling)
 
-* [Cyclops Core](https://modrinth.com/mod/cyclops-core)
-* [Common Capabilities](https://modrinth.com/mod/common-capabilities)
-* [Integrated Dynamics](https://modrinth.com/mod/integrated-dynamics)
-
 * [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo)
 * [FastFurnace](https://www.curseforge.com/minecraft/mc-mods/fastfurnace)
 * [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench)
 * [Toast Control](https://www.curseforge.com/minecraft/mc-mods/toast-control)
 
 * [McJtyLib](https://www.curseforge.com/minecraft/mc-mods/mcjtylib)
-* [RFTools Base](https://www.curseforge.com/minecraft/mc-mods/rftools-base)
-* [RFTools Utility](https://www.curseforge.com/minecraft/mc-mods/rftools-utility)
-* [RFTools Power](https://www.curseforge.com/minecraft/mc-mods/rftools-power)
-* [RFTools Control](https://www.curseforge.com/minecraft/mc-mods/rftools-control)
-* [RFTools Storage](https://www.curseforge.com/minecraft/mc-mods/rftools-storage)
-* [RFTools Dimensions](https://www.curseforge.com/minecraft/mc-mods/rftools-dimensions)
-* [RFTools Builder](https://www.curseforge.com/minecraft/mc-mods/rftools-builder)
 * [XNet](https://www.curseforge.com/minecraft/mc-mods/xnet)
 
 * [mutil](https://www.curseforge.com/minecraft/mc-mods/mutil)

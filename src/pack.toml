@@ -1,12 +1,12 @@
 name = "Eccentric Pack"
 author = "EccentricVamp"
-version = "0.7.1"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9e16715c9709ae19df657f866b9acadc30bf01d6476b9b859704b234828570be"
+hash = "cdcd0cce863ff1c0df2852ada679e151493ed5beea447736a3be5308e9262de7"
 
 [versions]
 forge = "40.1.84"

@@ -56,11 +56,6 @@ hash = "88186aebdf90e3c69c25d80a894799ff7f97ae8903cd76149f3a0a8d74534eb1"
 metafile = true
 
 [[files]]
-file = "mods/common-capabilities.pw.toml"
-hash = "d099ce9f421f4113f303e8931eb7a15dd5bf0a0678a5866b623e390669ef5704"
-metafile = true
-
-[[files]]
 file = "mods/configured.pw.toml"
 hash = "15405c43e9dade209198ecb2907944c2c5ada78dda2e680c0ecd44b494ae2671"
 metafile = true
@@ -83,11 +78,6 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "f1e831b83e7e2d9158db8392feb3c513aa3dd36606e937be508a15709f6f0010"
-metafile = true
-
-[[files]]
-file = "mods/cyclops-core.pw.toml"
-hash = "ee8f56662b618c9822b2dfa3bc1d0e6378bbfc3df4a4dbdd7bd67daa3044c4ca"
 metafile = true
 
 [[files]]
@@ -158,11 +148,6 @@ metafile = true
 [[files]]
 file = "mods/immersiveengineering.pw.toml"
 hash = "e5f6f1b06f491c55c1a82125ab4ed531f8ebb19d9e783c0ce0e9d2d135c26c10"
-metafile = true
-
-[[files]]
-file = "mods/integrated-dynamics.pw.toml"
-hash = "281edbb6b20e9969dc3c1b18842d9ee6d8c5e2fc1a2069814883539b4ff731b7"
 metafile = true
 
 [[files]]
@@ -258,41 +243,6 @@ metafile = true
 [[files]]
 file = "mods/reliquary-v1-3.pw.toml"
 hash = "2ee731f49898cec35c7c223ceed26a597aa0aba1506e518915308c259edbfad9"
-metafile = true
-
-[[files]]
-file = "mods/rftools-base.pw.toml"
-hash = "e4f7524778f1a3697e11b6d9b014a43f160f87cab2e2d20acf00ccf96047085b"
-metafile = true
-
-[[files]]
-file = "mods/rftools-builder.pw.toml"
-hash = "02c963702bb1aa871be6ee37781dd86ed6ef2ab242e25df9aa07b997ec41df67"
-metafile = true
-
-[[files]]
-file = "mods/rftools-control.pw.toml"
-hash = "bb2f5ccd92a81fd8f26dabf7b32b063d6625db4e8635b6e52f0a799de3e01e57"
-metafile = true
-
-[[files]]
-file = "mods/rftools-dimensions.pw.toml"
-hash = "52eb4123d46191b33d97e59f67eddd1c5c590470b3fce89b69ca482a3c03bdab"
-metafile = true
-
-[[files]]
-file = "mods/rftools-power.pw.toml"
-hash = "d971519f4bb477e38d614df5fc1f4c1ca1b0d108231727c2812496248c98b821"
-metafile = true
-
-[[files]]
-file = "mods/rftools-storage.pw.toml"
-hash = "da8abd8df3bd3630713b8fe746b1f04ee8803e4922ec49e14fc2d2bf5d4ffb8b"
-metafile = true
-
-[[files]]
-file = "mods/rftools-utility.pw.toml"
-hash = "cac61c6823a8177b54fd222cc5f63fe3a92971a2e22baa0bf94d780d60f11371"
 metafile = true
 
 [[files]]
